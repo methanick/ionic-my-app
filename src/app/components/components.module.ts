@@ -9,6 +9,6 @@ import { TimeAgoPipe } from './time-ago.pipe';
   imports: [
     CommonModule
   ],
-  schemas : [CUSTOM_ELEMENTS_SCHEMA],
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })
 export class ComponentsModule { }
